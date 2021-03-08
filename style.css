@@ -73,7 +73,7 @@ body {
 }
 
 #background {
-  background-image: url("../codeImage2.jpg");
+  background-image: url("codeImage2.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
